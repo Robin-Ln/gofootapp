@@ -1,0 +1,6 @@
+[submodule "gofootapp-fe"]
+	path = gofootapp-fe
+	url = https://github.com/Robin-Ln/gofootapp-fe.git
+[submodule "gofootapp-be"]
+	path = gofootapp-be
+	url = git@github.com:Robin-Ln/gofootapp-be.git
